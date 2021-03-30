@@ -2,7 +2,7 @@
 
 # About this Repository
 
-I was just diving into the React Testing Library to figure out how in the heck do you test React components.
+I was just diving into the `React Testing Library` and `Jest` to figure out how in the heck do you test React components.
 
 ## Resources used
 
