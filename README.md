@@ -8,3 +8,7 @@ I was just diving into the `React Testing Library` and `Jest` to figure out how 
 
 1. [How to use React Testing Library Tutorial](https://www.robinwieruch.de/react-testing-library)
 2. [Intro to React Testing [Jest and React Testing Library Tutorial]](https://www.youtube.com/watch?v=ZmVBCpefQe8)
+
+## End Result
+
+I get the gist of this!
